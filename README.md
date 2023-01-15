@@ -41,7 +41,10 @@ Deadlines clear todo app.
   <img src="https://img.shields.io/static/v1?message=javascript&logo=javascript&style=for-the-badge&color=1f1e34&label=%20" alt="Javascript">
 </picture>
 <picture>
-  <img src="https://img.shields.io/static/v1?message=express&logo=express&style=for-the-badge&color=1f1e34&label=%20" alt="Javascript">
+  <img src="https://img.shields.io/static/v1?message=nest&logo=nestjs&style=for-the-badge&color=1f1e34&label=%20" alt="Nest"
+</picture>
+<picture>
+  <img src="https://img.shields.io/static/v1?message=express&logo=express&style=for-the-badge&color=1f1e34&label=%20" alt="Express">
 </picture>
 <picture>
   <img src="https://img.shields.io/static/v1?message=HTML5&logo=html5&style=for-the-badge&color=1f1e34&label=%20" alt="HTML5">
@@ -52,6 +55,9 @@ Deadlines clear todo app.
 
 </br>
 </br>
+<picture>
+  <img src="https://img.shields.io/static/v1?message=angular&logo=angular&style=for-the-badge&color=1f1e34&label=%20" alt="Angular">
+</picture>
 <picture>
   <img src="https://img.shields.io/static/v1?message=react&logo=react&style=for-the-badge&color=1f1e34&label=%20" alt="React">
 </picture>
