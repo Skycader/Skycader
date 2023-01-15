@@ -41,7 +41,7 @@ Deadlines clear todo app.
   <img src="https://img.shields.io/static/v1?message=javascript&logo=javascript&style=for-the-badge&color=1f1e34&label=%20" alt="Javascript">
 </picture>
 <picture>
-  <img src="https://img.shields.io/static/v1?message=nest&logo=nestjs&style=for-the-badge&color=1f1e34&label=%20" alt="Nest"
+  <img src="https://img.shields.io/static/v1?message=nest&logo=nestjs&style=for-the-badge&color=1f1e34&label=%20" alt="Nest">
 </picture>
 <picture>
   <img src="https://img.shields.io/static/v1?message=express&logo=express&style=for-the-badge&color=1f1e34&label=%20" alt="Express">
