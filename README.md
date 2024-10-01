@@ -1,6 +1,6 @@
 ### 🙋‍♂️ I'm Daniel - Frontend Developer
 
-> Currently looking for internship or junior position, also open for collaboration
+> Middle Angular developer based in Saint-Petersburg, Russia
 
 <br>
 
